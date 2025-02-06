@@ -1,5 +1,4 @@
 # Time-Series-Forecasting_Project
-# Time-Series-Forecasting_Formative
 
 # Air Quality Forecasting with RNN (LSTM)
 
